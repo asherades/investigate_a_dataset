@@ -1,6 +1,6 @@
 ## Data Analyst Nanodegree Project: Investigate a Dataset
 
-This project involved using packages in Python, like Numpy, Pandas, and Matplotlib, to run basic analyses on a dataset of choice. The dataset I used came from TMDb, or "The Movie Database", and contained information on over 10,000 movies. 
+This project involved using packages in Python, like Numpy, Pandas, and Matplotlib, to answer questions on a dataset of choice and present those findings. The dataset I used came from TMDb, or "The Movie Database", and contained information on over 10,000 movies. 
 
 Files in this repository:
 
